@@ -1,8 +1,8 @@
-# Calendário
+# 📅 Calendário
 Projeto de calendario criado na aula de PWI  
 ## 📋 Sobre o Calendário
 O projeto de calendário foi realizado composto pela seguinte matéria:
-### programação web I
+### 💻 Programação web I
 Criamos um web site para conseguirmos ter controle de fretes.
 ## 📄 Descrição do projeto
 Calendário criado durante as aulas de Programaçãu web I, criamos um web site do nosso calendário, para ter 
