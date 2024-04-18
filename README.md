@@ -16,6 +16,6 @@ o controle de nossos fretes, deixando para que os clientes tenham acesso a agend
 * GitHub
 
 ### Autora
-| [<img loading="lazy" src="https://user-images.githubusercontent.com/140809968/272249265-389c8791-1744-4a19-a9a0-fde05e6dd499.jpg" width=95><br><sub>Ana Laura</sub>](https://github.com/anacenali) |  
+[<img loading="lazy" src="https://user-images.githubusercontent.com/140809968/272249265-389c8791-1744-4a19-a9a0-fde05e6dd499.jpg" width=95><br><sub>Ana Laura</sub>](https://github.com/anacenali) 
 
  
