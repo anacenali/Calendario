@@ -7,6 +7,9 @@ Criamos um web site para conseguirmos ter controle de fretes.
 ## 📄 Descrição do projeto
 Calendário criado durante as aulas de Programaçãu web I, criamos um web site do nosso calendário, para ter 
 o controle de nossos fretes, deixando para que os clientes tenham acesso a agenda. Esse projeto foi criado para aprendermos a montar um calendário de agendamento e os nossos clientes terem acesso as datas disponíveis.
+## Imagens do site
+<img src="carros.png" width="50%"> <img src="calendario.png" width="50%"> 
+
 ## 🛠️ Tecnologias  
 * HTML
 * CSS
